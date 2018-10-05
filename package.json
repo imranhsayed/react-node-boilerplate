@@ -1,0 +1,18 @@
+{
+  "name": "react-node-boilerplate",
+  "version": "1.0.0",
+  "description": "A React Js and Node Js boilerplate for building a new project. It uses create-react-app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Imran Sayed",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.1",
+    "path": "^0.12.7",
+    "validator": "^10.8.0"
+  }
+}
